@@ -7,7 +7,7 @@ Bu proje, **Tableau** kullanılarak hazırlanmış etkileşimli panolar aracıl�
 
 ---
 
-## Amaçlar
+## Hedefler
 
 - Toplam satış, kâr ve satış adedini görselleştirmek  
 - Aylık metrikleri güncel ve önceki yıl ile karşılaştırmak  
