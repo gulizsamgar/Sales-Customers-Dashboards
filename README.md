@@ -52,8 +52,8 @@ Bu proje, **Tableau** kullanılarak hazırlanmış etkileşimli panolar aracıl�
 - Ortalama değer çizgileri ile trend analizleri  
 
 ### 3. Müşteri Panosu Öne Çıkanlar
-- KPI’lar: Toplam Müşteri, Toplam Sipariş, Müşteri Başına Satış  
-- Aylık müşteri ve sipariş trendleri (PY karşılaştırmalı)  
+- KPI’lar: Toplam Müşteri, Müşteri Başına Satış, Toplam Sipariş (YoY)
+- Aylık müşteri ve sipariş trendlerinin bir önceki yıl ile karşılaştırması  
 - Sipariş sayısına göre müşteri dağılım grafiği  
 - Karlılık, satış ve aktiviteye göre ilk 10 müşteri tablosu  
 
