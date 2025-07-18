@@ -61,7 +61,7 @@ Bu proje, **Tableau** kullanılarak hazırlanmış etkileşimli panolar aracıl�
 
 ## Öne Çıkan Bulgular
 
-### 📊 **Sales Dashboard – Öne Çıkan Bulgular**
+### 📊 **Satış Panosu – Öne Çıkan Bulgular**
 
 1. **Genel Büyüme Eğilimi**  
    - Toplam satış: **$733K**, geçen yıla göre **%20,4 artış**  
@@ -79,7 +79,7 @@ Bu proje, **Tableau** kullanılarak hazırlanmış etkileşimli panolar aracıl�
    🔎 **Yorum:** Bu dönemlerde kampanyalar yapılmış olabilir; nedenini araştırarak tekrar edilebilir başarı fırsatları oluşturulabilir.
 
 
-### 👥 **Customer Dashboard – Öne Çıkan Bulgular**
+### 👥 **Müşteri Panosu – Öne Çıkan Bulgular**
 
 1. **Müşteri Artışı**  
    - Toplam müşteri sayısı: **693**, önceki yıla göre **%8,6 artış**  
