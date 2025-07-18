@@ -78,6 +78,7 @@ Bu proje, **Tableau** kullanılarak hazırlanmış etkileşimli panolar aracıl�
    - **10–15. haftalar** en yoğun satış dönemleri  
    🔎 **Yorum:** Bu dönemlerde kampanyalar yapılmış olabilir; nedenini araştırarak tekrar edilebilir başarı fırsatları oluşturulabilir.
 
+---
 
 ### 👥 **Müşteri Panosu – Öne Çıkan Bulgular**
 
