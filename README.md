@@ -78,7 +78,6 @@ Bu proje, **Tableau** kullanılarak hazırlanmış etkileşimli panolar aracıl�
    - **10–15. haftalar** en yoğun satış dönemleri  
    🔎 **Yorum:** Bu dönemlerde kampanyalar yapılmış olabilir; nedenini araştırarak tekrar edilebilir başarı fırsatları oluşturulabilir.
 
----
 
 ### 👥 **Customer Dashboard – Öne Çıkan Bulgular**
 
@@ -102,7 +101,6 @@ Bu proje, **Tableau** kullanılarak hazırlanmış etkileşimli panolar aracıl�
 
 - **Tableau Desktop / Tableau Public**  
 - **Microsoft Excel / CSV** (veri hazırlama)  
-- **GitHub** (sürüm kontrolü ve dokümantasyon)  
 
 ---
 
@@ -121,8 +119,8 @@ Bu proje ile kazanılan beceriler:
 
 ## Teşekkür
 
-Bu analiz yaklaşımını şekillendiren “Tableau Complete Project End-to-End | Like I Do in My Real Projects” "**](https://www.youtube.com/watch?v=dahrmqT5GD4&list=PLNcg_FV9n7qZ4Ym8ZriYT6WF8TaC2e_R7&index=3) peğitim serisi için  
-**Baraa Khatib Salkini**’ye ](https://www.youtube.com/@DatawithBaraa), özel teşekkürler.
+Bu analiz yaklaşımını şekillendiren “Tableau Complete Project End-to-End | Like I Do in My Real Projects” [****](https://www.youtube.com/watch?v=dahrmqT5GD4&list=PLNcg_FV9n7qZ4Ym8ZriYT6WF8TaC2e_R7&index=3) eğitim serisi için  
+**Baraa Khatib Salkini**’ye ***[](https://www.youtube.com/@DatawithBaraa), özel teşekkürler.
 
 ---
 
