@@ -20,18 +20,18 @@ Bu proje, **Tableau** kullanılarak hazırlanmış etkileşimli panolar aracıl�
 ## Panoların Görselleri
 
 ### Satış Panosu (Filtre Paneli Kapalı)
-![Sales Dashboard](images/Sales_Dashboard.png)
+![Sales Dashboard](Images/Sales_Dashboard.png)
 
 ### Satış Panosu (Filtre Paneli Açık)
-![Sales Dashboard with Filters](images/Sales_Dashboard_Filtered.png)
+![Sales Dashboard with Filters](Images/Sales_Dashboard_Filtered.png)
 
 ---
 
 ### Müşteri Panosu (Filtre Paneli Kapalı)
-![Customer Dashboard](images/Customer_Dashboard.png)
+![Customer Dashboard](Images/Customer_Dashboard.png)
 
 ### Müşteri Panosu (Filtre Paneli Açık)
-![Customer Dashboard with Filters](images/Customer_Dashboard_Filtered.png)
+![Customer Dashboard with Filters](Images/Customer_Dashboard_Filtered.png)
 
 ---
 
@@ -119,8 +119,8 @@ Bu proje ile kazanılan beceriler:
 
 ## Teşekkür
 
-Bu analiz yaklaşımını şekillendiren “Tableau Complete Project End-to-End | Like I Do in My Real Projects” [****](https://www.youtube.com/watch?v=dahrmqT5GD4&list=PLNcg_FV9n7qZ4Ym8ZriYT6WF8TaC2e_R7&index=3) eğitim serisi için  
-**Baraa Khatib Salkini**’ye ***[](https://www.youtube.com/@DatawithBaraa), özel teşekkürler.
+Bu analiz yaklaşımını şekillendiren [“Tableau Complete Project End-to-End | Like I Do in My Real Projects”](https://www.youtube.com/watch?v=dahrmqT5GD4&list=PLNcg_FV9n7qZ4Ym8ZriYT6WF8TaC2e_R7&index=3) eğitim serisi için  
+[**Baraa Khatib Salkini**’ye](https://www.youtube.com/@DatawithBaraa), özel teşekkürler.
 
 ---
 
