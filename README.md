@@ -4,6 +4,7 @@ Bu proje, **Tableau** kullanılarak hazırlanmış etkileşimli panolar aracıl�
 
 
 <p><a href="https://public.tableau.com/app/profile/guliz.samgar/viz/SalesCustomersDashboards_17521623187420/SalesDashboard?publish=yes" target="_blank" rel="noopener noreferrer">Tableau Public’te Panoyu Görüntüle</a></p>
+
 ---
 
 ## Amaçlar
