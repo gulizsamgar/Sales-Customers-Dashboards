@@ -2,7 +2,7 @@
 
 Bu proje, **Tableau** kullanılarak hazırlanmış etkileşimli panolar aracılığıyla satış ve müşteri davranışlarına dair güçlü iş içgörüleri sunar. Panolar, sezgisel gezinme, zaman bazlı trend analizleri, kârlılık ölçümleri ve en yüksek performans gösteren ürün/müşteri analizlerini şık ve interaktif bir tasarımda bir araya getirir.
 
-**[Tableau Public’te Panoyu Görüntüle](https://public.tableau.com/app/profile/guliz.samgar/viz/SalesCustomersDashboards_17521623187420/SalesDashboardh?Publish=yes)**)**
+**[Tableau Public’te Panoyu Görüntüle](https://public.tableau.com/app/profile/guliz.samgar/viz/SalesCustomersDashboards_17521623187420/SalesDashboardh){:target="_blank"}**
 
 ---
 
