@@ -1,4 +1,4 @@
-# Satış & Müşteri Panosu Görselleştirme Projesi | Tableau
+# Satış & Müşteri Panosu Projesi | Tableau
 
 Bu proje, **Tableau** kullanılarak hazırlanmış etkileşimli panolar aracılığıyla satış ve müşteri davranışlarına dair güçlü iş içgörüleri sunar. Panolar, sezgisel gezinme, zaman bazlı trend analizleri, kârlılık ölçümleri ve en yüksek performans gösteren ürün/müşteri analizlerini şık ve interaktif bir tasarımda bir araya getirir.
 
