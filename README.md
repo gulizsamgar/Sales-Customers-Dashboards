@@ -120,7 +120,7 @@ Bu proje ile kazanılan beceriler:
 
 ## Teşekkür
 
-Bu analiz yaklaşımını şekillendiren [“Tableau Complete Project End-to-End | Like I Do in My Real Projects”](<p><a href="https://www.youtube.com/watch?v=dahrmqT5GD4&list=PLNcg_FV9n7qZ4Ym8ZriYT6WF8TaC2e_R7&index=3?publish=yes") eğitim serisi için  YouTube kanalı Data with Baraa’nın sahibi olan bilişim uzmanı ve içerik üreticisi [**Baraa Khatib Salkini**’ye](https://www.youtube.com/@DatawithBaraa) özel teşekkürler.
+Bu analiz yaklaşımını şekillendiren [“Tableau Complete Project End-to-End | Like I Do in My Real Projects”](https://www.youtube.com/watch?v=dahrmqT5GD4&list=PLNcg_FV9n7qZ4Ym8ZriYT6WF8TaC2e_R7&index=3) eğitim serisi için  YouTube kanalı Data with Baraa’nın sahibi olan bilişim uzmanı ve içerik üreticisi [**Baraa Khatib Salkini**’ye](https://www.youtube.com/@DatawithBaraa) özel teşekkürler.
 
 ---
 
