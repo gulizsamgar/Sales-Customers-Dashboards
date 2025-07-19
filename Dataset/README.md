@@ -21,7 +21,7 @@ Veri ambarı mantığında tablolar genellikle iki ana gruba ayrılır: **Fact (
 - **Kullanım amacı:** Müşteri segmentasyonu.
 
 ### `Products.csv`
-- **Tanım:** Ürün özelliklerini içerir (isim, kategori, marka, fiyat).
+- **Tanım:** Ürün özelliklerini içerir (Product ID;Category;Sub-Category;Product Name).
 - **Dimension olma nedeni:** Sipariş edilen ürünleri tanımlamak için kullanılır.
 - **Kullanım amacı:** Kategori bazlı satış analizleri, ürün performansı karşılaştırmaları.
 
