@@ -7,8 +7,8 @@ Veri ambarı mantığında tablolar genellikle iki ana gruba ayrılır: **Fact (
 ## 🎯 Fact Table
 
 ### `Orders.csv`
-- **Tanım:** Sipariş detaylarını barındırır (müşteri, ürün, tarih, tutar).
-- **Fact olma nedeni:** Ölçülebilir metrikleri içerir (sipariş tutarı, adet, tarih).
+- **Tanım:** Sipariş detaylarını barındırır (Order ID;Order Date;Ship Date;Ship Mode;Customer ID;Segment;Postal Code;Product ID;Sales;Quantity;Discount;Profit).
+- **Fact olma nedeni:** Ölçülebilir metrikleri içerir (sipariş karı, adet, tarih).
 - **Kullanım amacı:** İşlem hacmi, dönemsel analizler ve performans ölçümleri.
 
 ---
