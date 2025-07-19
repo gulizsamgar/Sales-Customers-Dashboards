@@ -1,6 +1,6 @@
 # 📊 Veri Setleri Sınıflandırması: Fact ve Dimension Tablolar
 
-Veri ambarı mantığında tablolar genellikle iki ana gruba ayrılır: **Fact (gerçekleşen olaylar)** ve **Dimension (bağlamsal detaylar)**.
+Bu proje kapsamında kullanılan veri setleri, bir satış ve müşteri analiz sisteminin temelini oluşturmaktadır. Veri ambarı yaklaşımıyla düzenlenen bu tablolar, analizler için **fact (olay)** ve **dimension (bağlamsal bilgi)** olarak sınıflandırılmıştır. Aşağıda her bir CSV dosyasının veri ambarı içindeki rolü açıklanmıştır.
 
 ---
 
