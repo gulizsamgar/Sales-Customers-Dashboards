@@ -16,7 +16,7 @@ Veri ambarı mantığında tablolar genellikle iki ana gruba ayrılır: **Fact (
 ## 🧩 Dimension Tables
 
 ### `Customers.csv`
-- **Tanım:** Müşteri bilgilerinin yer aldığı tablo (ID, isim).
+- **Tanım:** Müşteri bilgilerinin yer aldığı tablo (Customer ID;Customer Name).
 - **Dimension olma nedeni:** Siparişleri bağlamsal olarak anlamlandırmak için kullanılır.
 - **Kullanım amacı:** Müşteri segmentasyonu.
 
