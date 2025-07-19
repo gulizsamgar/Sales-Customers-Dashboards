@@ -26,7 +26,7 @@ Veri ambarı mantığında tablolar genellikle iki ana gruba ayrılır: **Fact (
 - **Kullanım amacı:** Kategori bazlı satış analizleri, ürün performansı karşılaştırmaları.
 
 ### `Location.csv`
-- **Tanım:** Konum bilgilerini içerir (şehir, ülke, posta kodu).
+- **Tanım:** Konum bilgilerini içerir (Postal Code;City;State;Region;Country).
 - **Dimension olma nedeni:** Müşteri ve siparişlerin coğrafi yerleşimini anlamlandırır.
 - **Kullanım amacı:** Bölgesel satış trendleri, lojistik değerlendirmeleri.
 
